@@ -1,0 +1,28 @@
+#divc {
+    background-color: #40434b;
+    height: 3cm;
+}
+#title {
+    font-family: 'Pacifico', cursive;
+    color: rgb(197, 197, 197);
+}
+#note {
+    color: rgb(212, 212, 212); 
+    font-family: 'Abel', sans-serif;
+}
+#important {
+    background-color: #777fff;
+}
+#start {
+    background-color: #ff7777;
+    color: rgb(34, 34, 34); ;
+    border-radius: 5px;
+    height: 40px;
+    width: 110px;
+    font-size: 20px;
+    font-family: 'Comic Neue', cursive;
+}
+
+#desenvolvedor{
+    text-shadow: #414141;
+}
